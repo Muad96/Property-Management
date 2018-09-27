@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Property Management",
 			"color": "#3E4361",
-			"icon": "-",
+			"icon": "fa fa-building",
 			"type": "module",
 			"label": _("Property Management")
 		}
